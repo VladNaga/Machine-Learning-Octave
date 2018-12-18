@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+# Created by Octave 4.4.0, Tue Jul 24 19:15:35 2018 GMT <unknown@DESKTOP-74THLGD>
+# name: email
+# type: sq_string
+# elements: 1
+# length: 26
+vlad.nagacevschi@gmail.com
+
+
+# name: token
+# type: sq_string
+# elements: 1
+# length: 16
+gGJFDxJ6qjO0ZEW7
+
+
+=======
+# Created by Octave 4.4.0, Tue Jul 24 19:15:35 2018 GMT <unknown@DESKTOP-74THLGD>
+# name: email
+# type: sq_string
+# elements: 1
+# length: 26
+vlad.nagacevschi@gmail.com
+
+
+# name: token
+# type: sq_string
+# elements: 1
+# length: 16
+gGJFDxJ6qjO0ZEW7
+
+
+>>>>>>> b5fe077bea9fba572b8aa44b4c9e718c614f7255
